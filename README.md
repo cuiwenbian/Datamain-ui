@@ -1,4 +1,4 @@
-# cloud_album_manage
+# Ai Data
 
 ## Project setup
 ```
